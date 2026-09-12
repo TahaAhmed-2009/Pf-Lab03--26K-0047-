@@ -3,10 +3,12 @@ Hello! my name is Taha Ahmed I am studying Bachelors of Artificial intelligence 
 HOBBIES:
 - I love to write code
 * I love to watch thriller movies
-+ I don't like to read books
++ I don't like to read books,
+
 CODING LANGUAGES I KNOW:
 1. c
 1. cpp
-1. java script
+1. java script.
+
 OBJECTIVE:
 ***My only objective is to bring my self up to the world and contribute to my country***
