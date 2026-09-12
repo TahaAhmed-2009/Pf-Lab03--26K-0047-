@@ -1,1 +1,1 @@
-# Pf-Lab03--26K-0047-
+Hello! my name is Taha Ahmed I am studying Bachelors of Artificial intelligence at FAST NUCES Karachi campus. I have been always leaned toward seeking new technologies and I am in love with coding and testing my limits of creativity. 
